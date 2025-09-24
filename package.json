@@ -1,0 +1,16 @@
+{
+  "name": "testng_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2"
+  }
+}
